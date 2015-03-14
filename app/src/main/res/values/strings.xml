@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GPA Calculator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="textView">PRELIM</string>
+    <string name="textView2">MIDTERM</string>
+    <string name="textView3">FINAL</string>
+    <string name="editText"></string>
+    <string name="editText2"></string>
+    <string name="editText3"></string>
+    <string name="button">Compute</string>
+    <string name="textView4">GPA: </string>
+    <string name="textView5"></string>
+
+</resources>
